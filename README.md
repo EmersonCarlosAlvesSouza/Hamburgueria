@@ -1,1 +1,1 @@
-Projeto sendo desenvolvido em em Html, Css, JavaScript e ultilizando o framework CSS Tailwind <br>
+Projeto sendo desenvolvido em Html, Css, JavaScript e ultilizando o framework CSS Tailwind <br>
